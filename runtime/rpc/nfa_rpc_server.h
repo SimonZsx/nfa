@@ -43,6 +43,18 @@
 
 #include "../bessport/nfa_msg.grpc.pb.h"
 
+#include "add_inputview.h"
+#include "add_outputview.h"
+#include "add_replicas.h"
+#include "delete_inputview.h"
+#include "delete_outputview.h"
+#include "delete_replicas.h"
+#include "liveness_check.h"
+#include "query_runtimeinfo.h"
+#include "query_runtimestat.h"
+#include "recover.h"
+#include "set_migration_target.h"
+
 #define MBUF_PER_POOL 65535
 #define MBUF_POOL_CACHE_SIZE 250
 
