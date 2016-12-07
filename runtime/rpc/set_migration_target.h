@@ -1,5 +1,5 @@
-#ifndef set_migration_target
-#define set_migration_target
+#ifndef SET_migration_target
+#define SET_migration_target
 
 #include "rpc_common.h"
 

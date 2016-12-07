@@ -1,5 +1,5 @@
-#ifndef delete_inputview
-#define delete_inputview
+#ifndef DELETE_inputview
+#define DELETE_inputview
 
 #include "rpc_common.h"
 

@@ -1,5 +1,5 @@
-#ifndef query_runtimeinfo
-#define query_runtimeinfo
+#ifndef QUERY_runtimeinfo
+#define QUERY_runtimeinfo
 
 #include "rpc_common.h"
 

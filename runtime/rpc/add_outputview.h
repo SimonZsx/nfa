@@ -1,5 +1,5 @@
-#ifndef add_outputview
-#define add_outputview
+#ifndef ADD_outputview
+#define ADD_outputview
 #include "rpc_common.h"
 
 class AddOutputView {

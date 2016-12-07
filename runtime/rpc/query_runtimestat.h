@@ -1,5 +1,5 @@
-#ifndef query_runtimestat
-#define query_runtimestat
+#ifndef QUERY_runtimestat
+#define QUERY_runtimestat
 
 #include "rpc_common.h"
 

@@ -1,5 +1,5 @@
-#ifndef deletereplicas
-#define deletereplicas
+#ifndef DELETEreplicas
+#define DELETEreplicas
 
 #include "rpc_common.h"
 class DeleteReplicas {

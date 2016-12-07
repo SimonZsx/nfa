@@ -1,5 +1,5 @@
-#ifndef recover
-#define recover
+#ifndef REcover
+#define REcover
 
 #include "rpc_common.h"
 

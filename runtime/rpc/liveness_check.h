@@ -1,6 +1,6 @@
 
-#ifndef liveness_check
-#define liveness_check
+#ifndef LIVENESS_check
+#define LIVENESS_check
 
 #include "rpc_common.h"
 

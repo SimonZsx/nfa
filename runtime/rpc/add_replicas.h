@@ -1,5 +1,5 @@
-#ifndef addreplicas
-#define addreplicas
+#ifndef ADDreplicas
+#define ADDreplicas
 
 #include "rpc_common.h"
 

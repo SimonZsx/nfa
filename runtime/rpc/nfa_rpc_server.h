@@ -16,8 +16,8 @@
 // This is because we must provide our own thread implementation and bond the
 // thread for handling RPC calls to a DPDK EAL thread. So that this thread
 // can use the DPDK ring.
-#ifndef nfa_rpc_server
-#define nfa_rpc_server
+#ifndef NFA_rpc_server
+#define NFA_rpc_server
 
 
 #include <memory>

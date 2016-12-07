@@ -1,5 +1,5 @@
-#ifndef add_inputview
-#define add_inputview
+#ifndef ADD_inputview
+#define ADD_inputview
 
 #include "rpc_common.h"
 

@@ -1,5 +1,5 @@
-#ifndef delete_outputview
-#define delete_outputview
+#ifndef DELETE_outputview
+#define DELETE_outputview
 #include "rpc_common.h"
 
 class DeleteOutputView {
